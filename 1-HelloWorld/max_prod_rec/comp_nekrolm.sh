@@ -1,0 +1,1 @@
+g++ -std=c++17 -framework Carbon -liconv -include vector -include string -include map -include cstdio -funsigned-char -Wall -Wwrite-strings -Wformat=2 -Winit-self -Wmissing-include-dirs -Wno-parentheses -Wno-sign-compare -Wno-switch -O3  rec-nekrolm.cpp -o nekrolm
